@@ -175,7 +175,7 @@ Ici nous ajoutons une colonne "directors" pour afficher les réalisateurs de cha
 
 ## Modèles KNN
 
-Voir : Modele_KNN.ipynb
+Voir : Démo KNN finale.ipynb
 
 ####################################A compléter par Audrey ou Max#############################################
 
